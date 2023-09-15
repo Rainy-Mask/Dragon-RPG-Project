@@ -1,0 +1,50 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Karakter_Top_diffuse.png
+map_Ks Karakter_Top_specular.png
+bump Karakter_Top_normal.png
+map_Ns Karakter_Top_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Karakter_Bottom_diffuse.png
+map_Ks Karakter_Bottom_specular.png
+bump Karakter_Bottom_normal.png
+map_Ns Karakter_Bottom_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Karakter_Shoes_diffuse.png
+map_Ks Karakter_Shoes_specular.png
+bump Karakter_Shoes_normal.png
+map_Ns Karakter_Shoes_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Karakter_Body_diffuse.png
+map_Ks Karakter_Body_specular.png
+bump Karakter_Body_normal.png
+map_Ns Karakter_Body_gloss.png
+
